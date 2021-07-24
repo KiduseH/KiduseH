@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnkownServers
+- 👋 Hi, I’m @KiduseH
 - 👀 I’m interested in Gamedev, Web Design, Coding, Game Design, Hacking and Eating Food
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
